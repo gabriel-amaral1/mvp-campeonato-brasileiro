@@ -1,7 +1,7 @@
 # MVP - Análise Exploratória dos Dados
 
 A partir de um dataset com partidas do campeonato brasileiro de futebol, será feita uma análise descritiva de desempenho e perfil baseada em finalizações, passes, faltas e posse de bola.
-A análise será realizada com o aprendizado não supervisionado, já que o dataset não provém rótulos para que os atributos se baseiem. O objetivo é identificar padrões de jogo através dos perfis de times com base nas variáveis observadas.
+A análise será realizada com o aprendizado não supervisionado, já que o dataset não provém rótulos para que os atributos se baseiem. O objetivo é identificar padrões de jogo, através dos perfis de times, com base nas variáveis observadas.
 
 Hipóteses/Premissas:
 - Quem possui menor posse, comete mais faltas.
