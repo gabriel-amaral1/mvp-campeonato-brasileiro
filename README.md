@@ -6,6 +6,4 @@ O dataset original se encontra no link abaixo:
 https://raw.githubusercontent.com/adaoduque/Brasileirao_Dataset/refs/heads/master/campeonato-brasileiro-estatisticas-full.csv
 
 O dataset do MVP está neste link:
-
-
-Colab:
+https://raw.githubusercontent.com/gabriel-amaral1/mvp-campeonato-brasileiro/refs/heads/main/campeonato-brasileiro-estatisticas-full.csv
